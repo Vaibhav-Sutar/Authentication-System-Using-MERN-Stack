@@ -8,7 +8,7 @@ const sendEmail = async (options) => {
     service: process.env.SMPT_SERVICE,
     
     auth: {
-      user: 'sutarvaibhav588@gmail.com',
+      user: 'sutarvaibhav1234@gmail.com',
       pass: 'flskcnjhgksuwjxz'
     },
   });
