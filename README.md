@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/78019203/216244814-2119db06-3ad0-4971-
 2)  Now go inside of frontend folder using **cd frontend** command now again run **npm install** in terminal of frontend folder
 3) Now add the config.env file inside of config folder of backend. Here we have to add Following environment variable 
  
-PORT =  Add the port number
+PORT =  Add the port number\n\n
 DB_URI =  Add the mongodb url
 CLOUDINARY_NAME = Add the name which you get after creating account on cloudinary
 CLOUDINARY_API_KEY = Add its API key
