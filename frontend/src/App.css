@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.custom-file-upload {
+  width: 68%;
+  border: 1px solid #ccc;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+}
